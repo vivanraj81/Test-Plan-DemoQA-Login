@@ -28,9 +28,6 @@
 | 5     | Empty Password            | Pass   | -                     | -     |  
 | 7     | SQL Injection in Username | Fail   | DEFECT-001            | Error message not specific to invalid input. |  
 | 10    | Login After Password Reset| Fail   | DEFECT-002            | Password reset email not received. |  
-
-*(Add rows for all 51 test cases)*  
-
 ---
 
 ## **Defects Summary**  
@@ -60,8 +57,7 @@
 
 ## **Attachments**  
 1. [Test Execution Logs](link-to-logs)  
-2. [Screenshots of Failed Cases](link-to-screenshots)  
-3. [JMeter Performance Report](link-to-jmeter-results)  
+2. [Screenshots of Failed Cases](link-to-screenshots)   
 
 ---
 
